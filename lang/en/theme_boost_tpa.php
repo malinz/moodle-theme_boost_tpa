@@ -31,7 +31,7 @@ $string['brandcolor'] = 'Brand colour';
 $string['brandcolor_desc'] = 'The accent colour.';
 $string['bootswatch'] = 'Bootswatch';
 $string['bootswatch_desc'] = 'A bootswatch is a set of Bootstrap variables and css to style Bootstrap';
-$string['choosereadme'] = 'Te Puna Ako Theme is a modern highly-customisable theme. This theme is intended to be used directly, or as a parent theme when creating new themes utilising Bootstrap 4.';
+$string['choosereadme'] = 'boost_tpa is a modern highly-customisable theme. This theme is intended to be used directly, or as a parent theme when creating new themes utilising Bootstrap 4.';
 $string['currentinparentheses'] = '(current)';
 $string['configtitle'] = 'Te Puna Ako Theme';
 $string['generalsettings'] = 'General settings';
@@ -67,12 +67,7 @@ $string['region-lower-navdrawer'] = 'Nav-Drawer Bottom';
 $string['privacy:metadata:preference:draweropennav'] = 'The user\'s preference for hiding or showing the drawer menu navigation.';
 $string['privacy:drawernavclosed'] = 'The current preference for the navigation drawer is closed.';
 $string['privacy:drawernavopen'] = 'The current preference for the navigation drawer is open.';
-
-$string['privacy:metadata:preference:draweropennav'] = 'The user\'s preference for hiding or showing the drawer menu navigation.';
-$string['privacy:drawernavclosed'] = 'The current preference for the navigation drawer is closed.';
-$string['privacy:drawernavopen'] = 'The current preference for the navigation drawer is open.';
 $string['totop'] = 'Go to top';
-
 
 // My Courses custom menu dropdown
 $string['mycourses'] = 'My Courses';
